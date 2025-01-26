@@ -1,11 +1,14 @@
-<img src="https://i.imgur.com/4BclZ6T.jpeg" alt="ATOMIC-MD-PRO Banner"><h1 align="center">𒅒𝘼𝙏𝙊𝙈𝙄𝘾✄𝙈𝘿𒅒 </h1>
+<img src="https://i.imgur.com/4BclZ6T.jpeg" alt="ATOMIC-MD-PRO Banner">
 <p align="center">
+
+# 💻𝐀𝐓𝐎𝐌𝐈𝐂✘𝐌𝐃✘𝐏𝐑𝐎💻
+  
   <strong>Le bot WhatsApp ultime développé par Cid Kageno.</strong>
 </p><p align="center">
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/Node.js-16.x-brightgreen?style=flat-square" alt="Node.js Support">
   </a>
-  <img src="https://img.shields.io/github/repo-size/your-username/ATOMIC-MD-PRO?style=flat-square" alt="Repo size">
+  <img src="https://img.shields.io/github/repo-size/Atomic-tech-Shadow/ATOMIC-MD-PRO?style=flat-square" alt="Repo size">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.ATOMIC-MD-PRO" alt="Visitors">
 </p>
