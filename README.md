@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/4BclZ6T.jpeg" alt="ATOMIC-MD-PRO Banner"><h1 align="center">⚡ATOMIC-MD-PRO⚡</h1>
+<img src="https://i.imgur.com/4BclZ6T.jpeg" alt="ATOMIC-MD-PRO Banner"><h1 align="center">𒅒𝘼𝙏𝙊𝙈𝙄𝘾✄𝙈𝘿𒅒 </h1>
 <p align="center">
   <strong>Le bot WhatsApp ultime développé par Cid Kageno.</strong>
 </p><p align="center">
@@ -84,15 +84,6 @@ Commandes disponibles
 
 ¥menu : Affiche la liste des commandes disponibles.
 
-¥help : Montre les statistiques du bot.
-
-¥anime : Recherche des informations sur un anime.
-
-¥youtube [query] : Recherche une vidéo YouTube.
-
-
-Pour une liste complète des commandes, consultez COMMANDS.md.
-
 
 ---
 
@@ -133,4 +124,4 @@ git push origin feature/ma-fonctionnalite
 
 Ce projet est sous licence MIT.
 
-> Créé avec passion par Cid Kageno.
+> Créé avec passion par 〠𝘾𝙄𝘿✰ཽ𝙆𝘼𝙂𝙀𝙉𝙊✰ཽ〠.
