@@ -1,126 +1,136 @@
-# ATOMIC-MD-PRO
+<img src="https://i.imgur.com/4BclZ6T.jpeg" alt="ATOMIC-MD-PRO Banner"><h1 align="center">⚡ATOMIC-MD-PRO⚡</h1>
+<p align="center">
+  <strong>Le bot WhatsApp ultime développé par Cid Kageno.</strong>
+</p><p align="center">
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-16.x-brightgreen?style=flat-square" alt="Node.js Support">
+  </a>
+  <img src="https://img.shields.io/github/repo-size/your-username/ATOMIC-MD-PRO?style=flat-square" alt="Repo size">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.ATOMIC-MD-PRO" alt="Visitors">
+</p>
+---
 
-The Best WhatsApp Bot by Cid
+## 📝 Introduction
 
-ATOMIC-MD-PRO est un puissant bot WhatsApp conçu pour automatiser vos tâches, améliorer vos conversations et offrir une expérience unique sur WhatsApp. Créé par Cid Kageno, ce projet est l'incarnation du style et de la puissance de Shadow Garden.
+ATOMIC-MD-PRO est un bot WhatsApp puissant, rapide et personnalisable, conçu pour offrir une expérience utilisateur fluide et des fonctionnalités avancées. Inspiré par la philosophie de "Shadow Garden", ce projet est parfait pour les développeurs passionnés par l'automatisation et les interactions innovantes.
 
 
 ---
 
-# ✨ Fonctionnalités principales
+## 🚀 Fonctionnalités principales
 
-Réponses automatiques personnalisées : Gagnez du temps en automatisant vos discussions.
+Réponses automatiques personnalisées
 
-Intégrations avancées : Connectez votre bot à d'autres API ou systèmes pour des fonctionnalités infinies.
+Gestion avancée des groupes
 
-Commandes utiles : Gérez des tâches telles que :
+Système de commande extensible
 
-Envoi de rappels.
+Intégration API (OpenAI, Anime, YouTube, etc.)
 
-Création de listes de tâches.
-
-Recherche d'informations en temps réel.
-
-
-Thème Shadow Garden : Un design inspiré de The Eminence in Shadow.
+Système de permissions et de rôles
 
 
 
 ---
 
-# 🚀 Installation et démarrage
+## 🔧 Prérequis
 
-Suivez ces étapes simples pour exécuter le bot sur votre machine :
+Avant de commencer, assurez-vous d'avoir :
 
-1. Clonez le dépôt
+Node.js 16.x ou supérieur Télécharger ici
+
+npm ou yarn
+
+Une clé API valide pour les intégrations nécessaires (OpenAI, YouTube, etc.).
+
+
+
+---
+
+## 🛠️ Installation
+
+Suivez ces étapes pour configurer le bot localement :
+
+1. Clonez le dépôt :
 
 git clone https://github.com/votre-utilisateur/ATOMIC-MD-PRO.git
 cd ATOMIC-MD-PRO
 
-2. Installez les dépendances
 
-Assurez-vous d'avoir Node.js et npm installés.
+2. Installez les dépendances :
 
 npm install
 
-3. Configurez le bot
 
-Créez un fichier .env et ajoutez vos clés API et identifiants :
+3. Configurez le fichier .env :
 
-WHATSAPP_API_KEY=VOTRE_CLE
-BOT_NAME=Atomic-MD-Pro
-OWNER_NAME=Cid Kageno
+API_KEY=VOTRE_CLE_API
+BOT_NAME=ATOMIC-MD-PRO
 
-4. Lancez le bot
+
+4. Lancez le bot :
 
 npm start
 
 
----
-
-# 📚 Documentation des commandes
 
 
 ---
 
-# 🛠️ Technologies utilisées
+## 📚 Documentation
 
-Node.js : Back-end JavaScript rapide et léger.
+Commandes disponibles
 
-Baileys : Une librairie puissante pour les interactions avec WhatsApp.
+¥menu : Affiche la liste des commandes disponibles.
 
-Dotenv : Pour la gestion sécurisée des variables d'environnement.
+¥help : Montre les statistiques du bot.
 
+¥anime : Recherche des informations sur un anime.
 
-
----
-
-# 📌 Contribuer
-
-1. Forkez le projet.
+¥youtube [query] : Recherche une vidéo YouTube.
 
 
-2. Créez une branche pour votre fonctionnalité (git checkout -b feature/ma-fonctionnalite).
-
-
-3. Commitez vos modifications (git commit -m "Ajout d'une nouvelle fonctionnalité").
-
-
-4. Poussez vos changements (git push origin feature/ma-fonctionnalite).
-
-
-5. Soumettez une Pull Request.
-
-
+Pour une liste complète des commandes, consultez COMMANDS.md.
 
 
 ---
 
-# 💬 Contact
+## ✨ Contribution
 
-Créé par Cid Kageno. Inspiré par The Eminence in Shadow.
-Pour toute question ou suggestion, contactez-moi :
+Les contributions sont les bienvenues ! Suivez ces étapes pour contribuer :
 
-WhatsApp
+1. Forkez le dépôt.
 
-Email : votre-email@example.com
+
+2. Créez une branche pour votre fonctionnalité :
+
+git checkout -b feature/ma-fonctionnalite
+
+
+3. Envoyez vos modifications :
+
+git commit -m "Ajout d'une nouvelle fonctionnalité"
+git push origin feature/ma-fonctionnalite
+
 
 
 
 ---
 
-⚡ Licence
+## 📸 Captures d'écran
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-
-
+<details>
+<summary>Dashboard</summary>
+<img src="https://via.placeholder.com/800x400" alt="Dashboard Screenshot">
+</details><details>
+<summary>Commandes en action</summary>
+<img src="https://via.placeholder.com/800x400" alt="Command Example">
+</details>
 ---
 
-# 🌟 Supportez le projet
+## 📜 Licence
 
-Si vous aimez ce projet, laissez une étoile ⭐ sur le dépôt GitHub !
+Ce projet est sous licence MIT.
 
-
----
-
-
+> Créé avec passion par Cid Kageno.
